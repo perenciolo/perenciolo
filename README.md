@@ -1,0 +1,5 @@
+- 👋  Hi, I’m @perenciolo
+- 👀  I’m interested in Web Development. I like coding in JS/TS with React and Node. But I like to know something new every now or them.
+- 🌱  I’m currently learning a bit of Django
+- 💞️  I’m looking to collaborate on JS/TS React and Node
+- 📫  How to reach me: Send me a message
